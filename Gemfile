@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
-
-
+#haml
+gem 'haml-rails'
+#bootstrap
+gem 'bootstrap-sass'
+gem 'sprockets-rails'
+#Login
 gem 'devise'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.7'
